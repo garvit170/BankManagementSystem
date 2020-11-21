@@ -1,0 +1,2 @@
+This is a bank management system project demonstrating various OOPs concepts. It uses some features of C++ 11 standard for adding colours to the output so users are advised to build the main file(only) with specifying std=c++11.
+This is a cross platform code i.e for colours and clearscreen it detects the OS and then uses the required functions, for example, the windows.h library is not compatible with mac and linux.
